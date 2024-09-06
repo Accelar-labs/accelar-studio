@@ -18,7 +18,7 @@
     "@livekit/components-react": "^1.5.2",
     "@livekit/components-styles": "^1.0.8",
     "@monaco-editor/react": "^4.6.0",
-    "@next/font": "13.1.6",
+    "@next/font": "13.5.6",
     "@radix-ui/react-dialog": "^1.0.4",
     "@rocketseat/eslint-config": "^1.2.0",
     "@stellar/freighter-api": "^2.0.0",
