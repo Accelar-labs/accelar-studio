@@ -36,7 +36,7 @@
     "html-react-parser": "^5.0.11",
     "install": "^0.13.0",
     "livekit-client": "^1.15.8",
-    "next": "^14.2.3",
+    "next": "^14.2.10",
     "next-reveal": "^1.0.6",
     "next-themes": "^0.2.1",
     "nookies": "^2.5.2",
